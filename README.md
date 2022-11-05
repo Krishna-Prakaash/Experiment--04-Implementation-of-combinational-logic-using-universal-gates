@@ -63,7 +63,7 @@ endmodule
 ![OUTPUT-1](IMG-01.PNG)
 
 ## Timing Diagram
-![OUTPUT-2](IMG-02.PNG)
+![OUTPUT-2](IMG=02.PNG)
 
 ## Truth table
 ![OUTPUT-3](IMG-03.PNG)
