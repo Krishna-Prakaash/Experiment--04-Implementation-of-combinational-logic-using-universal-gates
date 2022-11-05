@@ -57,6 +57,7 @@ assign f=(~(~( p | q | r)));
 endmodule
 ```
 # Output:
+
 ## NAND gate:
 ### RTL realization
 ![OUTPUT-1](IMG-01.PNG)
@@ -72,7 +73,7 @@ endmodule
 ![OUTPUT-4](IMG-04.PNG)
 ## Timing Diagram
 ![OUTPUT-5](IMG-05.PNG)
-## ## Truth table
+##  Truth table
 ![OUTPUT-6](IMG-05.PNG)
 
 ## Result:
